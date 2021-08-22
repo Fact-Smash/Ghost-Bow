@@ -1,0 +1,61 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.099 seconds
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at -1600,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Q Davidson\Documents\Resume\Portfolio\Ghost Bow 1.0\Ghost Bow 1.0_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 68c0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.220100 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 469.
+Total: 0.916900 ms (FindLiveObjects: 0.027600 ms CreateObjectMapping: 0.022500 ms MarkObjects: 0.709600 ms  DeleteObjects: 0.156100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580900 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 0.556700 ms (FindLiveObjects: 0.024700 ms CreateObjectMapping: 0.014500 ms MarkObjects: 0.456500 ms  DeleteObjects: 0.060200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.590700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 838.
+Total: 0.492100 ms (FindLiveObjects: 0.036900 ms CreateObjectMapping: 0.024900 ms MarkObjects: 0.393700 ms  DeleteObjects: 0.036100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.950100 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 0.666600 ms (FindLiveObjects: 0.028900 ms CreateObjectMapping: 0.014200 ms MarkObjects: 0.569000 ms  DeleteObjects: 0.053800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.542100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 741.
+Total: 0.562800 ms (FindLiveObjects: 0.042400 ms CreateObjectMapping: 0.018000 ms MarkObjects: 0.467600 ms  DeleteObjects: 0.033900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.829900 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 0.800900 ms (FindLiveObjects: 0.037800 ms CreateObjectMapping: 0.020500 ms MarkObjects: 0.681200 ms  DeleteObjects: 0.060000 ms)
+
